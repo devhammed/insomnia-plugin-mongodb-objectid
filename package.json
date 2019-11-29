@@ -1,10 +1,10 @@
 {
-  "name": "insomnia-mongo-objectid",
+  "name": "insomnia-plugin-mongo-objectid",
   "version": "1.0.0",
   "main": "index.js",
   
   "insomnia": {                    
-    "name": "insomnia-mongo-objectid",
+    "name": "insomnia-plugin-mongo-objectid",
     "description": "Insomnia Mongo ObjectId Template Tag"
   },
   
