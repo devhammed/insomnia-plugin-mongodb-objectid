@@ -1,6 +1,13 @@
 {
   "name": "@inikolaev/insomnia-plugin-mongo-objectid",
   "version": "1.0.0",
+  "author": "Igor Nikolaev",
+  "description": "Insomnia Mongo ObjectId Template Tag",
+  "license": "MIT",
+  "repository": "https://github.com/inikolaev/insomnia-plugin-mongo-objectid",
+  "bugs": {
+    "url": "https://github.com/inikolaev/insomnia-plugin-mongo-objectid/issues",
+  },
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
