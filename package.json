@@ -1,21 +1,20 @@
 {
-  "name": "@inikolaev/insomnia-plugin-mongo-objectid",
+  "name": "@inikolaev/insomnia-plugin-mongodb-objectid",
   "version": "1.0.0",
   "author": "Igor Nikolaev",
-  "description": "Insomnia Mongo ObjectId Template Tag",
+  "description": "Insomnia MongoDB ObjectId Template Tag",
   "license": "MIT",
-  "repository": "https://github.com/inikolaev/insomnia-plugin-mongo-objectid",
+  "repository": "https://github.com/inikolaev/insomnia-plugin-mongodb-objectid",
   "bugs": {
-    "url": "https://github.com/inikolaev/insomnia-plugin-mongo-objectid/issues",
+    "url": "https://github.com/inikolaev/insomnia-plugin-mongodb-objectid/issues"
   },
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  
+    "registry": "https://registry.npmjs.org/"
+  },  
   "insomnia": {                    
-    "name": "insomnia-plugin-mongo-objectid",
-    "description": "Insomnia Mongo ObjectId Template Tag"
+    "name": "insomnia-plugin-mongodb-objectid",
+    "description": "Insomnia MongoDB ObjectId Template Tag"
   },
   
   "dependencies": [],
